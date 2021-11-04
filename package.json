@@ -1,5 +1,5 @@
 {
-  "name": "@liyongning/ts-cli",
+  "name": "ts-cli",
   "version": "1.0.3",
   "description": "",
   "main": "./lib/index.js",
@@ -38,7 +38,7 @@
     "ts-cli",
     "脚手架"
   ],
-  "author": "李永宁",
+  "author": "hejinzhi",
   "files": [
     "package.json",
     "README.md",
@@ -46,7 +46,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/liyongning/ts-cli.git"
+    "url": "https://github.com/hejinzhi/ts-cli.git"
   },
   "license": "ISC",
   "dependencies": {
